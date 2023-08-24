@@ -1,0 +1,1 @@
+taskkill /in chromedriver.exe /f
