@@ -54,3 +54,6 @@ else:
             "Upgrade-Insecure-Requests": '1',
             "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
             "Viewport-Width": '1920'
+
+            tiến anh
+            sb=UydRZFUV-71LxzdD1ZkjYVwC; datr=UydRZIl0InKbhYCp-oHVmJGv; c_user=100051231276765; dpr=1.25; xs=20%3AQ9wE_h5U8f9OaA%3A2%3A1690160822%3A-1%3A6316%3A%3AAcWD8Z269rTGdyp--OMG7epaTb0PKlkTS1y0ToUCKrx0; fr=03Q3hviPe1ro8TEAN.AWXIsiMVEFhVuW-0rJZ4p5Ge6eM.Bk-qkO.Wy.AAA.0.0.Bk-qkO.AWVy9bY84JM; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694149392445%2C%22v%22%3A1%7D; wd=988x786
